@@ -1,2 +1,2 @@
 # todo_mobileapp
-A simple to mobile app
+A simple todo mobile app
